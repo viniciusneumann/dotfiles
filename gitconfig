@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = Vinicius Neumann v.ogell@web.de
+	email = v.ogell@web.de
+	name = Vinicius Neumann
